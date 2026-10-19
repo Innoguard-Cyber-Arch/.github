@@ -7,7 +7,11 @@
 <!-- 本區塊由 .github-private 依 repos.toml 產生，請勿手動修改。 -->
 <!-- BEGIN GENERATED: repos -->
 
-目前沒有列出的專案。
+### 組織首頁
+
+| 專案 | 最新版本 | 最近 push | 開啟 issue | 說明 |
+| --- | --- | --- | --: | --- |
+| [.github](https://github.com/Innoguard-Cyber-Arch/.github) | — | 2026-10-19 | 0 | 組織公開首頁，由 .github-private 發布產生，不直接修改 |
 
 _最後盤點：2026-10-19_
 
