@@ -13,7 +13,7 @@
 | --- | --- | --- | --: | --- |
 | [.github](https://github.com/Innoguard-Cyber-Arch/.github) | — | 2026-11-22 | 0 | 組織公開首頁，由組織內部的來源 repo 發布產生，不直接修改 |
 
-_最後盤點：2026-11-22_
+_最後盤點：2026-11-25_
 
 <!-- END GENERATED: repos -->
 
